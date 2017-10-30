@@ -6,3 +6,5 @@ For full blog post discussing mapping unit and results see: https://www.clearpat
 
 For YouTube video of results, see: https://youtu.be/gpJlrqSyIJo
 
+NOTE: vlp_branch is setup to run mandala-mapping with a velodyne VLP-16 (Puck or Puck Lite) mounted as the rotating lidar
+
